@@ -1,4 +1,4 @@
-# 🚀 Git & GitHub Tutorial — Clean, Modern & Pro Level README
+# 🚀 Git & GitHub Tutorial — Clean, Modern & Pro Level
 
 A complete, beautifully organized guide made from your handwritten notes.
 Perfect for GitHub. Perfect for beginners. Super clean. ✨
